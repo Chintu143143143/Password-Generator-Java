@@ -34,6 +34,7 @@ These criteria are used to calculate a score for the password, which determines 
 
 This is a minor feature that displays information for the user on the console about password security, such as avoiding using the same password twice, avoiding character repetition, keyboard patterns, dictionary words, letter or number sequences, etc.
 
+### 4. Screenshot
 
 ![alt text](screenshot.png)
 
